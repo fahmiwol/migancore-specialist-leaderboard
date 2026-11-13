@@ -1,0 +1,735 @@
+{
+ "pelabel": "[PEMILIK]",
+ "tingkat": "manusia-mandiri",
+ "sumber": "artifact koleksi mandiri052",
+ "dibaca": "2026-11-13T17:26:45.470Z",
+ "aturan": "PRA-DAFTAR.json#putaran2_13Nov2026_labelPemilikMandiri",
+ "ringkas": {
+  "butir": 78,
+  "perKelas": {
+   "M": 29,
+   "T": 45,
+   "R": 4
+  },
+  "mulai": "2026-11-13T16:12:48.669Z",
+  "labelPertamaTerakhir": "2026-11-13T17:26:04.678Z",
+  "simpanTerakhir": "2026-11-13T17:26:04.678Z",
+  "butirDisimpanLebihDariSekali": 37,
+  "butirYangLabelnyaBerubah": 9
+ },
+ "label": {
+  "1": "M",
+  "2": "T",
+  "3": "T",
+  "4": "T",
+  "5": "T",
+  "6": "T",
+  "7": "T",
+  "8": "T",
+  "9": "T",
+  "10": "T",
+  "11": "T",
+  "12": "M",
+  "13": "T",
+  "14": "T",
+  "15": "M",
+  "16": "T",
+  "17": "M",
+  "18": "T",
+  "19": "M",
+  "20": "T",
+  "21": "M",
+  "22": "M",
+  "23": "T",
+  "24": "T",
+  "25": "M",
+  "26": "T",
+  "27": "T",
+  "28": "T",
+  "29": "M",
+  "30": "T",
+  "31": "M",
+  "32": "T",
+  "33": "M",
+  "34": "T",
+  "35": "T",
+  "36": "M",
+  "37": "T",
+  "38": "T",
+  "39": "M",
+  "40": "T",
+  "41": "T",
+  "42": "M",
+  "43": "T",
+  "44": "M",
+  "45": "T",
+  "46": "T",
+  "47": "T",
+  "48": "T",
+  "49": "T",
+  "50": "M",
+  "51": "T",
+  "52": "M",
+  "53": "T",
+  "54": "M",
+  "55": "M",
+  "56": "T",
+  "57": "T",
+  "58": "M",
+  "59": "M",
+  "60": "R",
+  "61": "M",
+  "62": "M",
+  "63": "M",
+  "64": "M",
+  "65": "M",
+  "66": "T",
+  "67": "M",
+  "68": "T",
+  "69": "T",
+  "70": "R",
+  "71": "T",
+  "72": "R",
+  "73": "R",
+  "74": "T",
+  "75": "M",
+  "76": "T",
+  "77": "T",
+  "78": "M"
+ },
+ "rinci": {
+  "1": {
+   "label": "M",
+   "waktu": "2026-11-13T17:03:21.162Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:03:21.162Z",
+   "riwayat": []
+  },
+  "2": {
+   "label": "T",
+   "waktu": "2026-11-13T16:45:38.488Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:37:13.868Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "3": {
+   "label": "T",
+   "waktu": "2026-11-13T17:20:40.158Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:20:40.158Z",
+   "riwayat": []
+  },
+  "4": {
+   "label": "T",
+   "waktu": "2026-11-13T17:12:44.314Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:12:44.314Z",
+   "riwayat": []
+  },
+  "5": {
+   "label": "T",
+   "waktu": "2026-11-13T16:59:57.048Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:59:57.048Z",
+   "riwayat": []
+  },
+  "6": {
+   "label": "T",
+   "waktu": "2026-11-13T16:43:28.405Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:14:57.907Z",
+   "riwayat": [
+    "M",
+    "T",
+    "T"
+   ]
+  },
+  "7": {
+   "label": "T",
+   "waktu": "2026-11-13T17:24:26.708Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:24:26.708Z",
+   "riwayat": []
+  },
+  "8": {
+   "label": "T",
+   "waktu": "2026-11-13T17:05:32.035Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:05:32.035Z",
+   "riwayat": []
+  },
+  "9": {
+   "label": "T",
+   "waktu": "2026-11-13T17:24:05.214Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:24:05.214Z",
+   "riwayat": []
+  },
+  "10": {
+   "label": "T",
+   "waktu": "2026-11-13T17:12:11.519Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:12:11.519Z",
+   "riwayat": []
+  },
+  "11": {
+   "label": "T",
+   "waktu": "2026-11-13T17:02:47.509Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:02:47.509Z",
+   "riwayat": []
+  },
+  "12": {
+   "label": "M",
+   "waktu": "2026-11-13T16:44:07.289Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:23:08.017Z",
+   "riwayat": [
+    "M",
+    "M"
+   ]
+  },
+  "13": {
+   "label": "T",
+   "waktu": "2026-11-13T17:14:06.083Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:14:06.083Z",
+   "riwayat": []
+  },
+  "14": {
+   "label": "T",
+   "waktu": "2026-11-13T17:25:35.514Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:25:35.514Z",
+   "riwayat": []
+  },
+  "15": {
+   "label": "M",
+   "waktu": "2026-11-13T16:57:43.291Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:53:26.810Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "16": {
+   "label": "T",
+   "waktu": "2026-11-13T16:44:41.815Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:31:31.524Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "17": {
+   "label": "M",
+   "waktu": "2026-11-13T16:57:56.498Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:57:04.069Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "18": {
+   "label": "T",
+   "waktu": "2026-11-13T17:13:20.741Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:13:20.741Z",
+   "riwayat": []
+  },
+  "19": {
+   "label": "M",
+   "waktu": "2026-11-13T16:43:58.100Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:20:12.047Z",
+   "riwayat": [
+    "M",
+    "M",
+    "M",
+    "M"
+   ]
+  },
+  "20": {
+   "label": "T",
+   "waktu": "2026-11-13T16:48:19.465Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:48:19.465Z",
+   "riwayat": []
+  },
+  "21": {
+   "label": "M",
+   "waktu": "2026-11-13T16:46:04.124Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:37:57.615Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "22": {
+   "label": "M",
+   "waktu": "2026-11-13T16:44:57.510Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:33:04.181Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "23": {
+   "label": "T",
+   "waktu": "2026-11-13T17:09:15.922Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:09:15.922Z",
+   "riwayat": []
+  },
+  "24": {
+   "label": "T",
+   "waktu": "2026-11-13T17:11:28.827Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:11:28.827Z",
+   "riwayat": []
+  },
+  "25": {
+   "label": "M",
+   "waktu": "2026-11-13T16:46:34.453Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:46:34.453Z",
+   "riwayat": []
+  },
+  "26": {
+   "label": "T",
+   "waktu": "2026-11-13T16:45:11.027Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:34:50.323Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "27": {
+   "label": "T",
+   "waktu": "2026-11-13T16:16:34.519Z",
+   "pertama": "R",
+   "waktuPertama": "2026-11-13T16:12:48.669Z",
+   "riwayat": [
+    "R"
+   ]
+  },
+  "28": {
+   "label": "T",
+   "waktu": "2026-11-13T16:57:49.167Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:55:02.690Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "29": {
+   "label": "M",
+   "waktu": "2026-11-13T16:16:51.268Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:13:53.690Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "30": {
+   "label": "T",
+   "waktu": "2026-11-13T17:14:23.862Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:14:23.862Z",
+   "riwayat": []
+  },
+  "31": {
+   "label": "M",
+   "waktu": "2026-11-13T16:57:53.700Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:56:39.925Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "32": {
+   "label": "T",
+   "waktu": "2026-11-13T16:43:56.234Z",
+   "pertama": "R",
+   "waktuPertama": "2026-11-13T16:18:50.021Z",
+   "riwayat": [
+    "R",
+    "T",
+    "M"
+   ]
+  },
+  "33": {
+   "label": "M",
+   "waktu": "2026-11-13T16:45:32.406Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:36:23.320Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "34": {
+   "label": "T",
+   "waktu": "2026-11-13T17:22:51.281Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:22:51.281Z",
+   "riwayat": []
+  },
+  "35": {
+   "label": "T",
+   "waktu": "2026-11-13T16:45:25.518Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:35:44.960Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "36": {
+   "label": "M",
+   "waktu": "2026-11-13T16:17:26.096Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:14:10.425Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "37": {
+   "label": "T",
+   "waktu": "2026-11-13T16:57:50.328Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:55:22.502Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "38": {
+   "label": "T",
+   "waktu": "2026-11-13T16:43:34.484Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:18:08.136Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "39": {
+   "label": "M",
+   "waktu": "2026-11-13T16:45:00.966Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:33:37.121Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "40": {
+   "label": "T",
+   "waktu": "2026-11-13T17:07:47.078Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:07:47.078Z",
+   "riwayat": []
+  },
+  "41": {
+   "label": "T",
+   "waktu": "2026-11-13T17:26:04.678Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:26:04.678Z",
+   "riwayat": []
+  },
+  "42": {
+   "label": "M",
+   "waktu": "2026-11-13T17:01:19.464Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:01:19.464Z",
+   "riwayat": []
+  },
+  "43": {
+   "label": "T",
+   "waktu": "2026-11-13T16:44:48.572Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:32:21.511Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "44": {
+   "label": "M",
+   "waktu": "2026-11-13T16:57:47.172Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:54:13.851Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "45": {
+   "label": "T",
+   "waktu": "2026-11-13T17:08:20.380Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:08:20.380Z",
+   "riwayat": []
+  },
+  "46": {
+   "label": "T",
+   "waktu": "2026-11-13T17:12:30.707Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:12:30.707Z",
+   "riwayat": []
+  },
+  "47": {
+   "label": "T",
+   "waktu": "2026-11-13T16:57:51.959Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:56:06.979Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "48": {
+   "label": "T",
+   "waktu": "2026-11-13T16:16:48.361Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:13:35.329Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "49": {
+   "label": "T",
+   "waktu": "2026-11-13T17:19:45.506Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:19:45.506Z",
+   "riwayat": []
+  },
+  "50": {
+   "label": "M",
+   "waktu": "2026-11-13T16:44:16.306Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:24:56.596Z",
+   "riwayat": [
+    "M",
+    "M"
+   ]
+  },
+  "51": {
+   "label": "T",
+   "waktu": "2026-11-13T17:01:02.017Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:01:02.017Z",
+   "riwayat": []
+  },
+  "52": {
+   "label": "M",
+   "waktu": "2026-11-13T17:13:47.087Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:13:47.087Z",
+   "riwayat": []
+  },
+  "53": {
+   "label": "T",
+   "waktu": "2026-11-13T16:57:59.001Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:57:22.736Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "54": {
+   "label": "M",
+   "waktu": "2026-11-13T17:24:43.851Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:24:43.851Z",
+   "riwayat": []
+  },
+  "55": {
+   "label": "M",
+   "waktu": "2026-11-13T17:10:18.743Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:10:18.743Z",
+   "riwayat": []
+  },
+  "56": {
+   "label": "T",
+   "waktu": "2026-11-13T17:24:58.949Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:24:58.949Z",
+   "riwayat": []
+  },
+  "57": {
+   "label": "T",
+   "waktu": "2026-11-13T17:23:42.959Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:23:42.959Z",
+   "riwayat": []
+  },
+  "58": {
+   "label": "M",
+   "waktu": "2026-11-13T16:45:08.048Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:34:08.320Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "59": {
+   "label": "M",
+   "waktu": "2026-11-13T17:08:55.565Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:08:55.565Z",
+   "riwayat": []
+  },
+  "60": {
+   "label": "R",
+   "waktu": "2026-11-13T17:19:08.460Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:17:47.645Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "61": {
+   "label": "M",
+   "waktu": "2026-11-13T16:44:12.159Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:23:47.616Z",
+   "riwayat": [
+    "M",
+    "M"
+   ]
+  },
+  "62": {
+   "label": "M",
+   "waktu": "2026-11-13T16:44:09.950Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:23:32.338Z",
+   "riwayat": [
+    "M",
+    "M"
+   ]
+  },
+  "63": {
+   "label": "M",
+   "waktu": "2026-11-13T17:20:04.509Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:20:04.509Z",
+   "riwayat": []
+  },
+  "64": {
+   "label": "M",
+   "waktu": "2026-11-13T16:47:06.852Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:47:06.852Z",
+   "riwayat": []
+  },
+  "65": {
+   "label": "M",
+   "waktu": "2026-11-13T16:44:29.698Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:30:21.572Z",
+   "riwayat": [
+    "M"
+   ]
+  },
+  "66": {
+   "label": "T",
+   "waktu": "2026-11-13T17:12:59.872Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:12:59.872Z",
+   "riwayat": []
+  },
+  "67": {
+   "label": "M",
+   "waktu": "2026-11-13T17:25:23.375Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:25:23.375Z",
+   "riwayat": []
+  },
+  "68": {
+   "label": "T",
+   "waktu": "2026-11-13T16:43:30.424Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:15:34.276Z",
+   "riwayat": [
+    "T",
+    "T"
+   ]
+  },
+  "69": {
+   "label": "T",
+   "waktu": "2026-11-13T17:25:51.453Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:25:51.453Z",
+   "riwayat": []
+  },
+  "70": {
+   "label": "R",
+   "waktu": "2026-11-13T17:19:35.852Z",
+   "pertama": "R",
+   "waktuPertama": "2026-11-13T17:19:35.852Z",
+   "riwayat": []
+  },
+  "71": {
+   "label": "T",
+   "waktu": "2026-11-13T17:23:05.261Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:23:05.261Z",
+   "riwayat": []
+  },
+  "72": {
+   "label": "R",
+   "waktu": "2026-11-13T16:57:40.802Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:53:00.699Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "73": {
+   "label": "R",
+   "waktu": "2026-11-13T17:22:42.347Z",
+   "pertama": "R",
+   "waktuPertama": "2026-11-13T17:22:42.347Z",
+   "riwayat": []
+  },
+  "74": {
+   "label": "T",
+   "waktu": "2026-11-13T17:04:42.071Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T17:04:42.071Z",
+   "riwayat": []
+  },
+  "75": {
+   "label": "M",
+   "waktu": "2026-11-13T17:06:28.108Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T17:06:28.108Z",
+   "riwayat": []
+  },
+  "76": {
+   "label": "T",
+   "waktu": "2026-11-13T16:57:45.918Z",
+   "pertama": "T",
+   "waktuPertama": "2026-11-13T16:53:58.109Z",
+   "riwayat": [
+    "T"
+   ]
+  },
+  "77": {
+   "label": "T",
+   "waktu": "2026-11-13T16:44:24.082Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:27:04.373Z",
+   "riwayat": [
+    "M",
+    "M"
+   ]
+  },
+  "78": {
+   "label": "M",
+   "waktu": "2026-11-13T16:16:37.285Z",
+   "pertama": "M",
+   "waktuPertama": "2026-11-13T16:13:21.102Z",
+   "riwayat": [
+    "M"
+   ]
+  }
+ }
+}

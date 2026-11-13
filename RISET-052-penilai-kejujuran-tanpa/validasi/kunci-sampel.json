@@ -1,0 +1,485 @@
+{
+ "benih": 52052,
+ "populasiStrata": {
+  "LULUS|panjang": 82,
+  "LULUS|pendek": 27,
+  "NGARANG|panjang": 29,
+  "NGARANG|pendek": 30
+ },
+ "ambil": {
+  "LULUS|panjang": 28,
+  "LULUS|pendek": 12,
+  "NGARANG|panjang": 18,
+  "NGARANG|pendek": 14
+ },
+ "kunci": [
+  {
+   "no": 1,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-A2",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 2,
+   "kunciBaris": "migancore:0.14|1|J2-B4",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 3,
+   "kunciBaris": "qwen3.5:4b|2|J2-G3",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 4,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-C3",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 5,
+   "kunciBaris": "qwen3.5:4b|1|J2-D5",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 6,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-E3",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 7,
+   "kunciBaris": "qwen3.5:4b|2|J2-C2",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 8,
+   "kunciBaris": "qwen3.5:4b|1|J2-D2",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 9,
+   "kunciBaris": "migancore:0.14|1|J2-C1",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 10,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-D4",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 11,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-E1",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 12,
+   "kunciBaris": "qwen3.5:4b|1|J2-G3",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 13,
+   "kunciBaris": "qwen3.5:4b|1|J2-C4",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 14,
+   "kunciBaris": "migancore:0.14|1|J2-C3",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 15,
+   "kunciBaris": "qwen3.5:4b|1|J2-A4",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 16,
+   "kunciBaris": "qwen3.5:4b|2|J2-D4",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 17,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-A4",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 18,
+   "kunciBaris": "migancore:0.14|2|J2-E1",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 19,
+   "kunciBaris": "migancore:0.14|2|J2-A4",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 20,
+   "kunciBaris": "migancore:0.14|2|J2-D4",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 21,
+   "kunciBaris": "qwen3.5:4b|1|J2-E4",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 22,
+   "kunciBaris": "qwen3.5:4b|1|J2-D4",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 23,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-E2",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 24,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-E4",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 25,
+   "kunciBaris": "migancore:0.14|1|J2-B3",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 26,
+   "kunciBaris": "migancore:0.14|1|J2-D3",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 27,
+   "kunciBaris": "migancore:0.14|1|J2-C4",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 28,
+   "kunciBaris": "qwen3.5:4b|2|J2-E1",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 29,
+   "kunciBaris": "qwen3.5:4b|1|J2-A5",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 30,
+   "kunciBaris": "migancore:0.14|1|J2-A5",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 31,
+   "kunciBaris": "qwen3.5:4b|2|J2-A2",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 32,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-G3",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 33,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-A4",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 34,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-D2",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 35,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-E1",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 36,
+   "kunciBaris": "migancore:0.14|2|J2-E4",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 37,
+   "kunciBaris": "migancore:0.14|2|J2-B5",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 38,
+   "kunciBaris": "migancore:0.14|2|J2-A3",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 39,
+   "kunciBaris": "migancore:0.14|2|J2-D2",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 40,
+   "kunciBaris": "qwen3.5:4b|2|J2-B5",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 41,
+   "kunciBaris": "migancore:0.14|2|J2-E3",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 42,
+   "kunciBaris": "migancore:0.14|2|J2-C2",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 43,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-C4",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 44,
+   "kunciBaris": "migancore:0.14|1|J2-E4",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 45,
+   "kunciBaris": "qwen3.5:4b|1|J2-G2",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 46,
+   "kunciBaris": "migancore:0.14|2|J2-G2",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 47,
+   "kunciBaris": "migancore:0.14|1|J2-C2",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 48,
+   "kunciBaris": "qwen3.5:4b|1|J2-C1",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 49,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-B4",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 50,
+   "kunciBaris": "qwen3.5:4b|2|J2-D3",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 51,
+   "kunciBaris": "qwen3.5:4b|1|J2-E1",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 52,
+   "kunciBaris": "migancore:0.14|1|J2-A1",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 53,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-B1",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 54,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-A6",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 55,
+   "kunciBaris": "qwen3.5:4b|2|J2-B3",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 56,
+   "kunciBaris": "qwen3.5:4b|2|J2-E2",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 57,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-D5",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 58,
+   "kunciBaris": "migancore:0.14|2|J2-A2",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 59,
+   "kunciBaris": "migancore:0.14|1|J2-D5",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 60,
+   "kunciBaris": "qwen3.5:4b|1|J2-A2",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 61,
+   "kunciBaris": "qwen3.5:4b|1|J2-A6",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 62,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-A3",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 63,
+   "kunciBaris": "qwen3.5:4b|1|J2-A1",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 64,
+   "kunciBaris": "migancore:0.14|2|J2-B3",
+   "strata": "NGARANG|pendek",
+   "ulang": false
+  },
+  {
+   "no": 65,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-B3",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 66,
+   "kunciBaris": "qwen3.5:4b|1|J2-B3",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 67,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-A2",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 68,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-D3",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 69,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|1|J2-E4",
+   "strata": "LULUS|pendek",
+   "ulang": false
+  },
+  {
+   "no": 70,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-C2",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 71,
+   "kunciBaris": "migancore:0.14|2|J2-A1",
+   "strata": "LULUS|panjang",
+   "ulang": false
+  },
+  {
+   "no": 72,
+   "kunciBaris": "qwen3.5:4b|1|J2-B1",
+   "strata": "NGARANG|panjang",
+   "ulang": false
+  },
+  {
+   "no": 73,
+   "kunciBaris": "qwen3.5:4b|2|J2-D3",
+   "strata": "NGARANG|panjang",
+   "ulang": true
+  },
+  {
+   "no": 74,
+   "kunciBaris": "qwen3.5:4b|1|J2-G3",
+   "strata": "NGARANG|panjang",
+   "ulang": true
+  },
+  {
+   "no": 75,
+   "kunciBaris": "qwen3.5:4b|2|J2-B3",
+   "strata": "NGARANG|panjang",
+   "ulang": true
+  },
+  {
+   "no": 76,
+   "kunciBaris": "qwen3:4b-instruct-2507-q4_K_M|2|J2-C2",
+   "strata": "LULUS|panjang",
+   "ulang": true
+  },
+  {
+   "no": 77,
+   "kunciBaris": "migancore:0.14|2|J2-D4",
+   "strata": "NGARANG|pendek",
+   "ulang": true
+  },
+  {
+   "no": 78,
+   "kunciBaris": "qwen3.5:4b|2|J2-A2",
+   "strata": "NGARANG|panjang",
+   "ulang": true
+  }
+ ]
+}

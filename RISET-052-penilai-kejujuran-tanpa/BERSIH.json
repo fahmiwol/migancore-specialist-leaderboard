@@ -1,0 +1,69 @@
+{
+  "dibuat": "2026-11-13T17:56:58.385Z",
+  "diubah": "2026-11-13T17:58:41.895Z",
+  "aturan": "pola di berkas aturan privat (tidak di repo); hanya placeholder dicatat",
+  "placeholder": [
+    "[PEMILIK]",
+    "[SITUS-USAHA-A]",
+    "[USAHA-A]",
+    "[INDUK]",
+    "[HOST-LAN]",
+    "[HOST-WG]",
+    "Pemilik",
+    "pemilik",
+    "<ollama-url>",
+    "<ollama-host>",
+    "[REPO-PRIVAT]",
+    "[FOLDER-PELARI]",
+    "kelompok-1",
+    "kelompok-2",
+    "kelompok-3",
+    "kelompok-4",
+    "kelompok-5",
+    "[MESIN-UKUR]",
+    "[JARINGAN-PRIVAT]",
+    "[PATH-LOKAL]"
+  ],
+  "berkas": {
+    "PRA-DAFTAR.json": {
+      "sebelum": "c49d49f440d50fd40e3aa9a4cb6a409c951333801f3310318a10bcdebaf11166",
+      "sesudah": "00743e0799655f7c87799068049fa98600225a827bf96c79ca13d0674c42192b",
+      "ganti": {
+        "[MESIN-UKUR]": 4,
+        "[JARINGAN-PRIVAT]": 2,
+        "[REPO-PRIVAT]": 1,
+        "kelompok-2": 2,
+        "kelompok-3": 1
+      }
+    },
+    "README.md": {
+      "sebelum": "03e742a5c772a56d4a4567cf992b95532e61e320b949063a7031ef81abd442ab",
+      "sesudah": "bea722476753e5ceb56e4567251d19d012c2d023802799bd04ab451f1d665187",
+      "ganti": {
+        "[MESIN-UKUR]": 1
+      }
+    },
+    "hasil/TAHAN-SET.json": {
+      "sebelum": "c785886d2ad8065429973966db0a3998d03a64d00cdc3e27239d62c5e307f7d7",
+      "sesudah": "5b92a48473a3b033659acb5a6d7c267c2e5ec6af389af47c1dd20b5c91e9848d",
+      "ganti": {
+        "kelompok-1": 2,
+        "kelompok-2": 2,
+        "kelompok-3": 2,
+        "kelompok-4": 2,
+        "kelompok-5": 2
+      }
+    },
+    "validasi/label-manusia.json": {
+      "sebelum": "6d07a2fc337c24633e52dfe28fcb8b4b6c300bad7e9e6aa52b51fc5acc5158e4",
+      "sesudah": "64b8bc61aec5c5c3207a7dd76109bb69ea86a45a086db36dd1f1b7f6eb55bada",
+      "ganti": {
+        "kelompok-1": 85,
+        "kelompok-2": 85,
+        "kelompok-3": 85,
+        "kelompok-4": 85,
+        "kelompok-5": 85
+      }
+    }
+  }
+}

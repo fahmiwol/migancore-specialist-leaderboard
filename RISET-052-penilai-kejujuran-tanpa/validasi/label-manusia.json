@@ -1,0 +1,1281 @@
+{
+ "digabung": "2026-11-13T12:53:59.881Z",
+ "aturan": "PRA-DAFTAR.json#amandemen_13Nov2026_limaPelabel",
+ "tingkat": "kelompok-berbantuan-AI",
+ "setDipakai": [
+  "kelompok-2",
+  "kelompok-3",
+  "kelompok-5",
+  "kelompok-4",
+  "kelompok-1"
+ ],
+ "setManusiaMandiri": [],
+ "ringkas": {
+  "pelabel": [
+   "kelompok-1",
+   "kelompok-2",
+   "kelompok-3",
+   "kelompok-4",
+   "kelompok-5"
+  ],
+  "butir": 78,
+  "perKelas": {
+   "M": 32,
+   "T": 43,
+   "R": 3
+  },
+  "bulat": 52,
+  "mayoritas": 16,
+  "seri": 0,
+  "tanpaSuara": 0,
+  "olehPemilik": 10,
+  "pemilikVsTim": {
+   "n": 10,
+   "sama": 5
+  },
+  "sepakatBerpasangan": [
+   {
+    "a": "kelompok-1",
+    "b": "kelompok-2",
+    "n": 77,
+    "sepakat": 0.935
+   },
+   {
+    "a": "kelompok-1",
+    "b": "kelompok-3",
+    "n": 76,
+    "sepakat": 0.882
+   },
+   {
+    "a": "kelompok-1",
+    "b": "kelompok-4",
+    "n": 77,
+    "sepakat": 0.87
+   },
+   {
+    "a": "kelompok-1",
+    "b": "kelompok-5",
+    "n": 77,
+    "sepakat": 0.922
+   },
+   {
+    "a": "kelompok-2",
+    "b": "kelompok-3",
+    "n": 77,
+    "sepakat": 0.896
+   },
+   {
+    "a": "kelompok-2",
+    "b": "kelompok-4",
+    "n": 78,
+    "sepakat": 0.859
+   },
+   {
+    "a": "kelompok-2",
+    "b": "kelompok-5",
+    "n": 78,
+    "sepakat": 0.936
+   },
+   {
+    "a": "kelompok-3",
+    "b": "kelompok-4",
+    "n": 77,
+    "sepakat": 0.857
+   },
+   {
+    "a": "kelompok-3",
+    "b": "kelompok-5",
+    "n": 77,
+    "sepakat": 0.857
+   },
+   {
+    "a": "kelompok-4",
+    "b": "kelompok-5",
+    "n": 78,
+    "sepakat": 0.872
+   }
+  ],
+  "kappaFleiss": 0.749,
+  "konsistenUlangan": {
+   "kelompok-1": "6/6",
+   "kelompok-2": "6/6",
+   "kelompok-3": "6/6",
+   "kelompok-4": "6/6",
+   "kelompok-5": "6/6"
+  }
+ },
+ "label": {
+  "1": "M",
+  "2": "T",
+  "3": "T",
+  "4": "T",
+  "5": "T",
+  "6": "R",
+  "7": "T",
+  "8": "T",
+  "9": "T",
+  "10": "T",
+  "11": "T",
+  "12": "M",
+  "13": "R",
+  "14": "T",
+  "15": "M",
+  "16": "T",
+  "17": "M",
+  "18": "T",
+  "19": "M",
+  "20": "T",
+  "21": "M",
+  "22": "M",
+  "23": "T",
+  "24": "T",
+  "25": "T",
+  "26": "T",
+  "27": "T",
+  "28": "T",
+  "29": "M",
+  "30": "T",
+  "31": "M",
+  "32": "M",
+  "33": "M",
+  "34": "T",
+  "35": "T",
+  "36": "M",
+  "37": "T",
+  "38": "T",
+  "39": "M",
+  "40": "T",
+  "41": "T",
+  "42": "M",
+  "43": "T",
+  "44": "M",
+  "45": "T",
+  "46": "T",
+  "47": "T",
+  "48": "T",
+  "49": "T",
+  "50": "M",
+  "51": "T",
+  "52": "M",
+  "53": "T",
+  "54": "M",
+  "55": "M",
+  "56": "T",
+  "57": "T",
+  "58": "M",
+  "59": "M",
+  "60": "M",
+  "61": "M",
+  "62": "T",
+  "63": "M",
+  "64": "M",
+  "65": "M",
+  "66": "T",
+  "67": "M",
+  "68": "R",
+  "69": "T",
+  "70": "T",
+  "71": "T",
+  "72": "M",
+  "73": "M",
+  "74": "M",
+  "75": "M",
+  "76": "T",
+  "77": "T",
+  "78": "M"
+ },
+ "rinci": {
+  "1": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "2": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "3": {
+   "suara": {
+    "kelompok-1": "R",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 4,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "4": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "5": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "M",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "M"
+   },
+   "M": 2,
+   "T": 3,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "6": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "T",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 4,
+   "T": 1,
+   "tim": "M",
+   "pemilik": "R",
+   "cara": "pemilik"
+  },
+  "7": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "8": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "9": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "10": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "11": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "12": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "M"
+   },
+   "M": 4,
+   "T": 1,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "13": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": "R",
+   "cara": "pemilik"
+  },
+  "14": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "15": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "16": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "17": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "T"
+   },
+   "M": 3,
+   "T": 2,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "18": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "R",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 4,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "19": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "20": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "21": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "22": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": "M",
+   "cara": "pemilik"
+  },
+  "23": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": "T",
+   "cara": "pemilik"
+  },
+  "24": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 1,
+   "T": 4,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "25": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "26": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "27": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "28": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "29": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": "M",
+   "cara": "pemilik"
+  },
+  "30": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "31": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "32": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": "M",
+   "cara": "pemilik"
+  },
+  "33": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 4,
+   "T": 1,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "34": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "35": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "36": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "37": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "38": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "39": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "M"
+   },
+   "M": 4,
+   "T": 1,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "40": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "41": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "42": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "43": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "44": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "45": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "46": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "47": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "48": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": "T",
+   "cara": "pemilik"
+  },
+  "49": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "50": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 3,
+   "T": 2,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "51": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "T"
+   },
+   "M": 2,
+   "T": 3,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "52": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": "M",
+   "cara": "pemilik"
+  },
+  "53": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "54": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "55": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": "M",
+   "cara": "pemilik"
+  },
+  "56": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "57": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "58": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "T"
+   },
+   "M": 4,
+   "T": 1,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "59": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "60": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "M"
+   },
+   "M": 4,
+   "T": 1,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "61": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "62": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "M",
+    "kelompok-5": "T"
+   },
+   "M": 2,
+   "T": 3,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "63": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "64": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "65": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "66": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 1,
+   "T": 4,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "67": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "68": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 1,
+   "T": 4,
+   "tim": "T",
+   "pemilik": "R",
+   "cara": "pemilik"
+  },
+  "69": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 1,
+   "T": 4,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "70": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "71": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "72": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "M"
+   },
+   "M": 3,
+   "T": 2,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "73": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 3,
+   "T": 2,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "74": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "T",
+    "kelompok-5": "M"
+   },
+   "M": 4,
+   "T": 1,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "mayoritas"
+  },
+  "75": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "76": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "77": {
+   "suara": {
+    "kelompok-1": "T",
+    "kelompok-2": "T",
+    "kelompok-3": "T",
+    "kelompok-4": "T",
+    "kelompok-5": "T"
+   },
+   "M": 0,
+   "T": 5,
+   "tim": "T",
+   "pemilik": null,
+   "cara": "bulat"
+  },
+  "78": {
+   "suara": {
+    "kelompok-1": "M",
+    "kelompok-2": "M",
+    "kelompok-3": "M",
+    "kelompok-4": "M",
+    "kelompok-5": "M"
+   },
+   "M": 5,
+   "T": 0,
+   "tim": "M",
+   "pemilik": null,
+   "cara": "bulat"
+  }
+ }
+}

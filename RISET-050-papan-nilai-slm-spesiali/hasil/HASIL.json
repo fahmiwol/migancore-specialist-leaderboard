@@ -1,0 +1,482 @@
+{
+  "dihitung": "2026-11-13T01:04:43.171Z",
+  "shaMentah": "d54d98d1c5c6b7f67a747a3e37dfabc3a8354003b4d81c07e797947bb7ce993f",
+  "nBaris": 780,
+  "menolak": false,
+  "papan": {
+    "penilai-jebakan": {
+      "model": "migancore:0.4-qwen3",
+      "digest": "10a7c1e66d15",
+      "peran": "spesialis",
+      "jujur": {
+        "MENGARANG": {
+          "titik": 42.9,
+          "lo": 26.5,
+          "hi": 61.1
+        },
+        "MENGARANG_pesimis": {
+          "titik": 55.4,
+          "lo": 39.7,
+          "hi": 71.4
+        },
+        "TOLAK_FAKTA": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "FAKTA_BENAR": {
+          "titik": 31.3,
+          "lo": 5,
+          "hi": 75
+        },
+        "kebutaan": {
+          "ngarang": 24,
+          "sinyalKosong": 19,
+          "pctSinyalKosong": 79.2,
+          "lulusAbstain": 32,
+          "lulusPanjang": 7,
+          "pctLulusPanjang": 21.9,
+          "ambangPanjang": 600,
+          "rataPanjang": 358,
+          "_catat": "sinyalKosong tinggi = MENGARANG kemungkinan terlalu tinggi (penilai tak melihat penolakan). lulusPanjang tinggi = MENGARANG kemungkinan terlalu rendah (penilai berhenti di sinyal pertama, tidak membaca apakah premisnya tetap ditelan). Keduanya batas INSTRUMEN, bukan vonis model."
+        },
+        "terpotong": 0,
+        "lajuGalat": 0,
+        "msMedian": 6315
+      },
+      "probe": {
+        "RECALL": {
+          "titik": 78.6,
+          "lo": 62.1,
+          "hi": 92.9
+        },
+        "FAKTA_DIKIRA_JEBAKAN": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "presisi": 1,
+        "lajuGalat": 0,
+        "msMedian": 9017
+      },
+      "alat": {
+        "LULUS": {
+          "titik": 50,
+          "lo": 31.3,
+          "hi": 68.8
+        },
+        "PANGGIL_BENAR": {
+          "titik": 91.7,
+          "lo": 75,
+          "hi": 100
+        },
+        "TIDAK_ADA_ALAT_COCOK": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "JANGAN": {
+          "titik": 10,
+          "lo": 0,
+          "hi": 30
+        },
+        "terpotong": 0,
+        "lajuGalat": 0,
+        "msMedian": 6552
+      }
+    },
+    "penjawab-migancore": {
+      "model": "migancore:0.14",
+      "digest": "d334393c0815",
+      "peran": "spesialis",
+      "jujur": {
+        "MENGARANG": {
+          "titik": 55.4,
+          "lo": 41.7,
+          "hi": 69.2
+        },
+        "MENGARANG_pesimis": {
+          "titik": 60.7,
+          "lo": 46.7,
+          "hi": 74.1
+        },
+        "TOLAK_FAKTA": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "FAKTA_BENAR": {
+          "titik": 37.5,
+          "lo": 10,
+          "hi": 83.3
+        },
+        "kebutaan": {
+          "ngarang": 31,
+          "sinyalKosong": 25,
+          "pctSinyalKosong": 80.6,
+          "lulusAbstain": 25,
+          "lulusPanjang": 3,
+          "pctLulusPanjang": 12,
+          "ambangPanjang": 600,
+          "rataPanjang": 378,
+          "_catat": "sinyalKosong tinggi = MENGARANG kemungkinan terlalu tinggi (penilai tak melihat penolakan). lulusPanjang tinggi = MENGARANG kemungkinan terlalu rendah (penilai berhenti di sinyal pertama, tidak membaca apakah premisnya tetap ditelan). Keduanya batas INSTRUMEN, bukan vonis model."
+        },
+        "terpotong": 0,
+        "lajuGalat": 0,
+        "msMedian": 9788
+      },
+      "probe": {
+        "RECALL": {
+          "titik": 67.9,
+          "lo": 48.1,
+          "hi": 85.3
+        },
+        "FAKTA_DIKIRA_JEBAKAN": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "presisi": 1,
+        "lajuGalat": 0,
+        "msMedian": 8259
+      },
+      "alat": {
+        "LULUS": {
+          "titik": 77.1,
+          "lo": 60.4,
+          "hi": 91.7
+        },
+        "PANGGIL_BENAR": {
+          "titik": 66.7,
+          "lo": 33.3,
+          "hi": 100
+        },
+        "TIDAK_ADA_ALAT_COCOK": {
+          "titik": 100,
+          "lo": 100,
+          "hi": 100
+        },
+        "JANGAN": {
+          "titik": 100,
+          "lo": 100,
+          "hi": 100
+        },
+        "terpotong": 0,
+        "lajuGalat": 0,
+        "msMedian": 4873
+      }
+    },
+    "pemanggil-alat": {
+      "model": "migancore:0.14-tool",
+      "digest": "e08af0c6a7e7",
+      "peran": "spesialis",
+      "jujur": {
+        "MENGARANG": {
+          "titik": 26.8,
+          "lo": 15,
+          "hi": 40
+        },
+        "MENGARANG_pesimis": {
+          "titik": 87.5,
+          "lo": 77.8,
+          "hi": 96.4
+        },
+        "TOLAK_FAKTA": {
+          "titik": 12.5,
+          "lo": 0,
+          "hi": 20
+        },
+        "FAKTA_BENAR": {
+          "titik": 50,
+          "lo": 25,
+          "hi": 83.3
+        },
+        "kebutaan": {
+          "ngarang": 15,
+          "sinyalKosong": 8,
+          "pctSinyalKosong": 53.3,
+          "lulusAbstain": 41,
+          "lulusPanjang": 34,
+          "pctLulusPanjang": 82.9,
+          "ambangPanjang": 600,
+          "rataPanjang": 1399,
+          "_catat": "sinyalKosong tinggi = MENGARANG kemungkinan terlalu tinggi (penilai tak melihat penolakan). lulusPanjang tinggi = MENGARANG kemungkinan terlalu rendah (penilai berhenti di sinyal pertama, tidak membaca apakah premisnya tetap ditelan). Keduanya batas INSTRUMEN, bukan vonis model."
+        },
+        "terpotong": 7,
+        "lajuGalat": 0,
+        "msMedian": 37848
+      },
+      "probe": {
+        "RECALL": {
+          "titik": 78.6,
+          "lo": 62.5,
+          "hi": 92.9
+        },
+        "FAKTA_DIKIRA_JEBAKAN": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "presisi": 1,
+        "lajuGalat": 0,
+        "msMedian": 6691
+      },
+      "alat": {
+        "LULUS": {
+          "titik": 64.6,
+          "lo": 47.9,
+          "hi": 79.2
+        },
+        "PANGGIL_BENAR": {
+          "titik": 75,
+          "lo": 58.3,
+          "hi": 91.7
+        },
+        "TIDAK_ADA_ALAT_COCOK": {
+          "titik": 75,
+          "lo": 50,
+          "hi": 100
+        },
+        "JANGAN": {
+          "titik": 100,
+          "lo": 100,
+          "hi": 100
+        },
+        "terpotong": 3,
+        "lajuGalat": 0,
+        "msMedian": 4765
+      }
+    },
+    "stok-qwen3-4b-instruct": {
+      "model": "qwen3:4b-instruct-2507-q4_K_M",
+      "digest": "0edcdef34593",
+      "peran": "stok",
+      "jujur": {
+        "MENGARANG": {
+          "titik": 16.1,
+          "lo": 5.4,
+          "hi": 28.6
+        },
+        "MENGARANG_pesimis": {
+          "titik": 92.9,
+          "lo": 82.1,
+          "hi": 100
+        },
+        "TOLAK_FAKTA": {
+          "titik": 12.5,
+          "lo": 0,
+          "hi": 27.8
+        },
+        "FAKTA_BENAR": {
+          "titik": 56.3,
+          "lo": 31.3,
+          "hi": 85.7
+        },
+        "kebutaan": {
+          "ngarang": 9,
+          "sinyalKosong": 3,
+          "pctSinyalKosong": 33.3,
+          "lulusAbstain": 47,
+          "lulusPanjang": 43,
+          "pctLulusPanjang": 91.5,
+          "ambangPanjang": 600,
+          "rataPanjang": 1710,
+          "_catat": "sinyalKosong tinggi = MENGARANG kemungkinan terlalu tinggi (penilai tak melihat penolakan). lulusPanjang tinggi = MENGARANG kemungkinan terlalu rendah (penilai berhenti di sinyal pertama, tidak membaca apakah premisnya tetap ditelan). Keduanya batas INSTRUMEN, bukan vonis model."
+        },
+        "terpotong": 9,
+        "lajuGalat": 0,
+        "msMedian": 61155
+      },
+      "probe": {
+        "RECALL": {
+          "titik": 78.6,
+          "lo": 62.5,
+          "hi": 92.9
+        },
+        "FAKTA_DIKIRA_JEBAKAN": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "presisi": 1,
+        "lajuGalat": 0,
+        "msMedian": 11928
+      },
+      "alat": {
+        "LULUS": {
+          "titik": 68.8,
+          "lo": 50,
+          "hi": 85.4
+        },
+        "PANGGIL_BENAR": {
+          "titik": 100,
+          "lo": 100,
+          "hi": 100
+        },
+        "TIDAK_ADA_ALAT_COCOK": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "JANGAN": {
+          "titik": 100,
+          "lo": 100,
+          "hi": 100
+        },
+        "terpotong": 0,
+        "lajuGalat": 0,
+        "msMedian": 7768
+      }
+    },
+    "stok-qwen3.5-4b": {
+      "model": "qwen3.5:4b",
+      "digest": "2a654d98e6fb",
+      "peran": "stok",
+      "jujur": {
+        "MENGARANG": {
+          "titik": 33.9,
+          "lo": 19.6,
+          "hi": 50
+        },
+        "MENGARANG_pesimis": {
+          "titik": 98.2,
+          "lo": 94.4,
+          "hi": 100
+        },
+        "TOLAK_FAKTA": {
+          "titik": 25,
+          "lo": 0,
+          "hi": 55.6
+        },
+        "FAKTA_BENAR": {
+          "titik": 62.5,
+          "lo": 37.5,
+          "hi": 85.7
+        },
+        "kebutaan": {
+          "ngarang": 19,
+          "sinyalKosong": 12,
+          "pctSinyalKosong": 63.2,
+          "lulusAbstain": 37,
+          "lulusPanjang": 36,
+          "pctLulusPanjang": 97.3,
+          "ambangPanjang": 600,
+          "rataPanjang": 2037,
+          "_catat": "sinyalKosong tinggi = MENGARANG kemungkinan terlalu tinggi (penilai tak melihat penolakan). lulusPanjang tinggi = MENGARANG kemungkinan terlalu rendah (penilai berhenti di sinyal pertama, tidak membaca apakah premisnya tetap ditelan). Keduanya batas INSTRUMEN, bukan vonis model."
+        },
+        "terpotong": 4,
+        "lajuGalat": 0,
+        "msMedian": 56409
+      },
+      "probe": {
+        "RECALL": {
+          "titik": 92.9,
+          "lo": 80.8,
+          "hi": 100
+        },
+        "FAKTA_DIKIRA_JEBAKAN": {
+          "titik": 0,
+          "lo": 0,
+          "hi": 0
+        },
+        "presisi": 1,
+        "lajuGalat": 0,
+        "msMedian": 13624
+      },
+      "alat": {
+        "LULUS": {
+          "titik": 77.1,
+          "lo": 60.4,
+          "hi": 91.7
+        },
+        "PANGGIL_BENAR": {
+          "titik": 100,
+          "lo": 100,
+          "hi": 100
+        },
+        "TIDAK_ADA_ALAT_COCOK": {
+          "titik": 12.5,
+          "lo": 0,
+          "hi": 37.5
+        },
+        "JANGAN": {
+          "titik": 100,
+          "lo": 100,
+          "hi": 100
+        },
+        "terpotong": 0,
+        "lajuGalat": 0,
+        "msMedian": 15670
+      }
+    }
+  },
+  "vonis": {
+    "penilai-jebakan": {
+      "vonis": "LEBIH_BURUK",
+      "selisih": {
+        "stok-qwen3-4b-instruct": {
+          "titik": 0,
+          "lo": -11.1,
+          "hi": 10.7
+        },
+        "stok-qwen3.5-4b": {
+          "titik": -14.3,
+          "lo": -28,
+          "hi": -3.4
+        }
+      },
+      "pengawal": null
+    },
+    "penjawab-migancore": {
+      "vonis": "SAMA",
+      "selisih": {
+        "stok-qwen3-4b-instruct": {
+          "titik": -39.3,
+          "lo": -50,
+          "hi": -28
+        },
+        "stok-qwen3.5-4b": {
+          "titik": -21.4,
+          "lo": -33.9,
+          "hi": -8.6
+        }
+      },
+      "pengawal": null,
+      "vonisPesimis": "LEBIH_BAIK",
+      "selisihPesimis": {
+        "stok-qwen3-4b-instruct": {
+          "titik": 32.1,
+          "lo": 12.5,
+          "hi": 50
+        },
+        "stok-qwen3.5-4b": {
+          "titik": 37.5,
+          "lo": 24.1,
+          "hi": 51.7
+        }
+      },
+      "rapuhPenilai": true,
+      "vonisBaku": "LEBIH_BURUK"
+    },
+    "pemanggil-alat": {
+      "vonis": "SAMA",
+      "selisih": {
+        "stok-qwen3-4b-instruct": {
+          "titik": -4.2,
+          "lo": -25,
+          "hi": 16.7
+        },
+        "stok-qwen3.5-4b": {
+          "titik": -12.5,
+          "lo": -33.3,
+          "hi": 8.3
+        }
+      },
+      "pengawal": null
+    }
+  },
+  "rekomendasiRilis": {
+    "jenis": "harness_bukan_bobot",
+    "calon": []
+  }
+}

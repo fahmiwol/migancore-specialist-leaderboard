@@ -1,0 +1,529 @@
+{
+ "dihitung": "2026-11-13T15:05:56.759Z",
+ "catatan": "deskriptif; tidak mengubah vonis",
+ "varian": {
+  "semua set + pemilik (dipakai vonis)": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.814,
+    "kenaM": 0.821,
+    "kenaT": 0.805,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.081,
+    "selisihBias": -0.231,
+    "ragu": 3
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.514,
+    "kenaM": 1,
+    "kenaT": 0.293,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.658,
+    "selisihBias": 0.508,
+    "ragu": 3
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.896,
+    "kenaM": 0.929,
+    "kenaT": 0.902,
+    "biasPendek": 0,
+    "biasPanjang": 0.044,
+    "selisihBias": 0.044,
+    "ragu": 3
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.663,
+    "kenaM": 0.964,
+    "kenaT": 0.512,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.374,
+    "selisihBias": 0.22,
+    "ragu": 3
+   }
+  },
+  "semua set, tanpa label pemilik": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.831,
+    "kenaM": 0.852,
+    "kenaT": 0.8,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.033,
+    "selisihBias": -0.183,
+    "ragu": 0
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.483,
+    "kenaM": 1,
+    "kenaT": 0.267,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.706,
+    "selisihBias": 0.555,
+    "ragu": 0
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.938,
+    "kenaM": 1,
+    "kenaT": 0.911,
+    "biasPendek": 0,
+    "biasPanjang": 0.094,
+    "selisihBias": 0.094,
+    "ragu": 0
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.656,
+    "kenaM": 1,
+    "kenaT": 0.489,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.442,
+    "selisihBias": 0.288,
+    "ragu": 0
+   }
+  },
+  "tanpa kelompok-2": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.818,
+    "kenaM": 0.84,
+    "kenaT": 0.795,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.059,
+    "selisihBias": -0.209,
+    "ragu": 8
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.5,
+    "kenaM": 1,
+    "kenaT": 0.308,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.68,
+    "selisihBias": 0.53,
+    "ragu": 8
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.925,
+    "kenaM": 0.92,
+    "kenaT": 0.949,
+    "biasPendek": 0,
+    "biasPanjang": -0.015,
+    "selisihBias": -0.015,
+    "ragu": 8
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.668,
+    "kenaM": 0.96,
+    "kenaT": 0.538,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.359,
+    "selisihBias": 0.205,
+    "ragu": 8
+   }
+  },
+  "tanpa kelompok-3": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.833,
+    "kenaM": 0.846,
+    "kenaT": 0.821,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.071,
+    "selisihBias": -0.221,
+    "ragu": 7
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.508,
+    "kenaM": 1,
+    "kenaT": 0.308,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.668,
+    "selisihBias": 0.517,
+    "ragu": 7
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.919,
+    "kenaM": 0.923,
+    "kenaT": 0.949,
+    "biasPendek": 0,
+    "biasPanjang": 0,
+    "selisihBias": 0,
+    "ragu": 7
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.669,
+    "kenaM": 0.962,
+    "kenaT": 0.538,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.36,
+    "selisihBias": 0.206,
+    "ragu": 7
+   }
+  },
+  "tanpa kelompok-5": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.804,
+    "kenaM": 0.815,
+    "kenaT": 0.795,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.089,
+    "selisihBias": -0.239,
+    "ragu": 6
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.519,
+    "kenaM": 1,
+    "kenaT": 0.308,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.65,
+    "selisihBias": 0.5,
+    "ragu": 6
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.928,
+    "kenaM": 0.926,
+    "kenaT": 0.949,
+    "biasPendek": 0,
+    "biasPanjang": -0.014,
+    "selisihBias": -0.014,
+    "ragu": 6
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.681,
+    "kenaM": 0.963,
+    "kenaT": 0.538,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.342,
+    "selisihBias": 0.188,
+    "ragu": 6
+   }
+  },
+  "tanpa kelompok-4": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.839,
+    "kenaM": 0.852,
+    "kenaT": 0.825,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.069,
+    "selisihBias": -0.22,
+    "ragu": 5
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.507,
+    "kenaM": 1,
+    "kenaT": 0.3,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.67,
+    "selisihBias": 0.519,
+    "ragu": 5
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.902,
+    "kenaM": 0.926,
+    "kenaT": 0.925,
+    "biasPendek": 0,
+    "biasPanjang": 0.03,
+    "selisihBias": 0.03,
+    "ragu": 5
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.662,
+    "kenaM": 0.963,
+    "kenaT": 0.525,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.374,
+    "selisihBias": 0.22,
+    "ragu": 5
+   }
+  },
+  "tanpa kelompok-1": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.814,
+    "kenaM": 0.808,
+    "kenaT": 0.821,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.092,
+    "selisihBias": -0.242,
+    "ragu": 7
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.522,
+    "kenaM": 1,
+    "kenaT": 0.308,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.647,
+    "selisihBias": 0.497,
+    "ragu": 7
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.922,
+    "kenaM": 0.923,
+    "kenaT": 0.949,
+    "biasPendek": 0,
+    "biasPanjang": 0,
+    "selisihBias": 0,
+    "ragu": 7
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.676,
+    "kenaM": 0.962,
+    "kenaT": 0.538,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.351,
+    "selisihBias": 0.197,
+    "ragu": 7
+   }
+  },
+  "hanya kelompok-2": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.858,
+    "kenaM": 0.889,
+    "kenaT": 0.822,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.021,
+    "selisihBias": -0.171,
+    "ragu": 0
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.475,
+    "kenaM": 1,
+    "kenaT": 0.267,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.718,
+    "selisihBias": 0.567,
+    "ragu": 0
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.93,
+    "kenaM": 1,
+    "kenaT": 0.911,
+    "biasPendek": 0,
+    "biasPanjang": 0.106,
+    "selisihBias": 0.106,
+    "ragu": 0
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.648,
+    "kenaM": 1,
+    "kenaT": 0.489,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.454,
+    "selisihBias": 0.3,
+    "ragu": 0
+   }
+  },
+  "hanya kelompok-3": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.767,
+    "kenaM": 0.742,
+    "kenaT": 0.775,
+    "biasPendek": 0.064,
+    "biasPanjang": -0.086,
+    "selisihBias": -0.15,
+    "ragu": 1
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.488,
+    "kenaM": 0.935,
+    "kenaT": 0.225,
+    "biasPendek": 0.064,
+    "biasPanjang": 0.653,
+    "selisihBias": 0.589,
+    "ragu": 1
+   },
+   "juri Claude": {
+    "lulus": false,
+    "sepakatTertimbang": 0.89,
+    "kenaM": 0.871,
+    "kenaT": 0.9,
+    "biasPendek": -0.086,
+    "biasPanjang": 0.041,
+    "selisihBias": 0.127,
+    "ragu": 1
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.682,
+    "kenaM": 0.968,
+    "kenaT": 0.5,
+    "biasPendek": 0.075,
+    "biasPanjang": 0.389,
+    "selisihBias": 0.314,
+    "ragu": 1
+   }
+  },
+  "hanya kelompok-5": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.836,
+    "kenaM": 0.88,
+    "kenaT": 0.787,
+    "biasPendek": 0.188,
+    "biasPanjang": -0.007,
+    "selisihBias": -0.195,
+    "ragu": 0
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.452,
+    "kenaM": 1,
+    "kenaT": 0.255,
+    "biasPendek": 0.188,
+    "biasPanjang": 0.732,
+    "selisihBias": 0.544,
+    "ragu": 0
+   },
+   "juri Claude": {
+    "lulus": false,
+    "sepakatTertimbang": 0.908,
+    "kenaM": 1,
+    "kenaT": 0.872,
+    "biasPendek": 0.038,
+    "biasPanjang": 0.12,
+    "selisihBias": 0.082,
+    "ragu": 0
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.626,
+    "kenaM": 1,
+    "kenaT": 0.468,
+    "biasPendek": 0.192,
+    "biasPanjang": 0.468,
+    "selisihBias": 0.277,
+    "ragu": 0
+   }
+  },
+  "hanya kelompok-4": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.745,
+    "kenaM": 0.75,
+    "kenaT": 0.708,
+    "biasPendek": 0.188,
+    "biasPanjang": -0.028,
+    "selisihBias": -0.216,
+    "ragu": 0
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.466,
+    "kenaM": 1,
+    "kenaT": 0.25,
+    "biasPendek": 0.188,
+    "biasPanjang": 0.711,
+    "selisihBias": 0.523,
+    "ragu": 0
+   },
+   "juri Claude": {
+    "lulus": true,
+    "sepakatTertimbang": 0.922,
+    "kenaM": 1,
+    "kenaT": 0.854,
+    "biasPendek": 0.038,
+    "biasPanjang": 0.099,
+    "selisihBias": 0.061,
+    "ragu": 0
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.639,
+    "kenaM": 1,
+    "kenaT": 0.458,
+    "biasPendek": 0.192,
+    "biasPanjang": 0.447,
+    "selisihBias": 0.256,
+    "ragu": 0
+   }
+  },
+  "hanya kelompok-1": {
+   "pola baku": {
+    "lulus": false,
+    "sepakatTertimbang": 0.856,
+    "kenaM": 0.885,
+    "kenaT": 0.822,
+    "biasPendek": 0.15,
+    "biasPanjang": -0.018,
+    "selisihBias": -0.168,
+    "ragu": 1
+   },
+   "pola pesimistis": {
+    "lulus": false,
+    "sepakatTertimbang": 0.473,
+    "kenaM": 1,
+    "kenaT": 0.267,
+    "biasPendek": 0.15,
+    "biasPanjang": 0.721,
+    "selisihBias": 0.571,
+    "ragu": 1
+   },
+   "juri Claude": {
+    "lulus": false,
+    "sepakatTertimbang": 0.92,
+    "kenaM": 1,
+    "kenaT": 0.889,
+    "biasPendek": 0,
+    "biasPanjang": 0.121,
+    "selisihBias": 0.121,
+    "ragu": 1
+   },
+   "juri lokal": {
+    "lulus": false,
+    "sepakatTertimbang": 0.646,
+    "kenaM": 1,
+    "kenaT": 0.489,
+    "biasPendek": 0.154,
+    "biasPanjang": 0.457,
+    "selisihBias": 0.303,
+    "ragu": 1
+   }
+  }
+ },
+ "lawanLabelPemilik": {
+  "n": 7,
+  "butir": [
+   22,
+   23,
+   29,
+   32,
+   48,
+   52,
+   55
+  ],
+  "sama": {
+   "pola baku": "5/7",
+   "pola pesimistis": "5/7",
+   "juri Claude": "5/7",
+   "juri lokal": "5/7",
+   "label kelompok": "5/7"
+  }
+ }
+}

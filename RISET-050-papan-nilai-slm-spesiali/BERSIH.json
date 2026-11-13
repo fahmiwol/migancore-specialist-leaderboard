@@ -1,0 +1,147 @@
+{
+  "dibuat": "2026-11-13T17:58:39.413Z",
+  "aturan": "pola di berkas aturan privat (tidak di repo); hanya placeholder dicatat",
+  "placeholder": [
+    "[PEMILIK]",
+    "[SITUS-USAHA-A]",
+    "[USAHA-A]",
+    "[INDUK]",
+    "[HOST-LAN]",
+    "[HOST-WG]",
+    "Pemilik",
+    "pemilik",
+    "<ollama-url>",
+    "<ollama-host>",
+    "[MESIN-UKUR]",
+    "[JARINGAN-PRIVAT]",
+    "[PATH-LOKAL]",
+    "[REPO-PRIVAT]",
+    "[FOLDER-PELARI]",
+    "kelompok-1",
+    "kelompok-2",
+    "kelompok-3",
+    "kelompok-4",
+    "kelompok-5"
+  ],
+  "privat": "instrumen/petak-jujur2.mjs: blok PRIVAT (3 soal, tidak pernah diukur) diganti `export const PRIVAT = []`",
+  "berkas": {
+    "PRA-DAFTAR.json": {
+      "sebelum": "3c68b52ec24ac157a15805f62917f211a0a0b1dd339e28812f3c765cb1f76bc2",
+      "sesudah": "b96d7b5a612c66c8838c579ea164cbec6d0891091df268e861c4cd2f6e53a7bf",
+      "ganti": {
+        "[REPO-PRIVAT]": 1,
+        "[FOLDER-PELARI]": 1,
+        "[PATH-LOKAL]": 1,
+        "<ollama-url>": 1,
+        "[MESIN-UKUR]": 6,
+        "[PEMILIK]": 1
+      }
+    },
+    "README.md": {
+      "sebelum": "e3047a7cf706b6ee1c283a5f687919dd89a9e988f2ae3c3631f66195a14eab1e",
+      "sesudah": "814879558cf4d853c3617e23aa5933c00e860390923c2164a3032d100892d760",
+      "ganti": {
+        "Pemilik": 2,
+        "pemilik": 2,
+        "[MESIN-UKUR]": 7,
+        "[PATH-LOKAL]": 4,
+        "[PEMILIK]": 4,
+        "[INDUK]": 1
+      }
+    },
+    "hasil/asap-log.jsonl": {
+      "sebelum": "ca82abf4459be83c012d82799fe2573b91a0bed2859e60a7c4f6a17da37f3a60",
+      "sesudah": "d745a9991d714f0dfc6c424cf1c3768d98b4837a3f08f803d9d3676a251739b1",
+      "ganti": {
+        "<ollama-url>": 1
+      }
+    },
+    "hasil/asap2-log.jsonl": {
+      "sebelum": "22ed9e15c686ee967459fb9d853a11138af746dd98ca9eca5e394ffdc524ef9b",
+      "sesudah": "3b43077af77102b9677df86cd881d303ef698b0c1b99dbdc1d1b5c75de852f20",
+      "ganti": {
+        "<ollama-url>": 1
+      }
+    },
+    "instrumen/petak-jujur2.mjs": {
+      "sebelum": "90a804507f8b1687c0cacf605e81d78638382042f383ac3e60f1b4afba402e7e",
+      "sesudah": "8f5f610a4f7b1d6c0b7d4075237b3910083c64b3b85a6c0f7e295cb6df6d4499",
+      "ganti": {
+        "pemilik": 2,
+        "[PEMILIK]": 3,
+        "[USAHA-A]": 3,
+        "[INDUK]": 2
+      }
+    },
+    "instrumen/probe-keterjawaban.mjs": {
+      "sebelum": "7e7d740ae12d3c3fa38252fa67033647c3fb35cd9d0f52c4f4092f0a81ac3ad4",
+      "sesudah": "a45a2950584ff3a090a9212d50de659212a1a9c2c7b1a22a7c4a6401cd22166c",
+      "ganti": {
+        "Pemilik": 4,
+        "pemilik": 8,
+        "[MESIN-UKUR]": 1,
+        "[PEMILIK]": 2,
+        "[HOST-LAN]": 1
+      }
+    },
+    "pelari.mjs": {
+      "sebelum": "40632f3b8422c2e2393ef868271432dceb458cbc1f0f1718198df76446381cbc",
+      "sesudah": "54eead7416c8f88374f8d09bca752d90f8b02c3ab01de1371818b64bb45569b6",
+      "ganti": {
+        "<ollama-url>": 2,
+        "[MESIN-UKUR]": 2
+      }
+    },
+    "hasil/asap.jsonl": {
+      "sebelum": "6bb2797647613c84cc3d4729f7a4767d8ce842acc3cc73b1717f7362e1e6029b",
+      "sesudah": "02ee924c140cc27e16e882103402c2f8659e6e29ac4ae24058b831109af769f3",
+      "ganti": {
+        "[PEMILIK]": 2,
+        "[USAHA-A]": 1
+      }
+    },
+    "hasil/asap2.jsonl": {
+      "sebelum": "8369c6bf5b302d02a964ddc4026ffb9fe7961b4d029b07855673764e1e6c2b2d",
+      "sesudah": "f76313ba7b7ecc3bff910932ac8c311ea667aa29b5301074caf3ca00612eddcc",
+      "ganti": {
+        "[USAHA-A]": 1
+      }
+    },
+    "hasil/mentah.jsonl": {
+      "sebelum": "d54d98d1c5c6b7f67a747a3e37dfabc3a8354003b4d81c07e797947bb7ce993f",
+      "sesudah": "3d4bd4f76a145bf531e413f5852a88fc6b835d4f0698085a8282f4d216516b91",
+      "ganti": {
+        "[PEMILIK]": 42,
+        "[USAHA-A]": 49
+      }
+    },
+    "instrumen/instrumen-alat.mjs": {
+      "sebelum": "5cb0219d8c03562fbe07b0c917fba4b60f1c64c40f4add2c0150bd3e824e7a91",
+      "sesudah": "3a3eedf607007d83813f56ad4220cb710f45019ddeebb22cb9d08ef8ba916c09",
+      "ganti": {
+        "[PEMILIK]": 2,
+        "[USAHA-A]": 2
+      }
+    },
+    "instrumen/soal-alat-tahan.mjs": {
+      "sebelum": "f61627645cf68f7e2297f224d393d6c3cf38f2ebe9ef78fe02e913094cf51e8f",
+      "sesudah": "dffa05e5330c4bedbc82737b8310f48649c35345fac37c2f6323ad0967699dc7",
+      "ganti": {
+        "[PEMILIK]": 1
+      }
+    },
+    "terbit.mjs": {
+      "sebelum": "012b445a96914e60f0919bb6652c626c9f6175af8c8e800ba146c37859269af5",
+      "sesudah": "1cbcb87fc51e437b84d2cc67a4c35ba7921617b43cc31b99c3ae2a6ec7673edf",
+      "ganti": {
+        "[PEMILIK]": 1
+      }
+    }
+  },
+  "putaran": [
+    "2026-11-13T02:16:13.082Z",
+    "2026-11-13T17:55:47.372Z",
+    "2026-11-13T17:57:16.217Z",
+    "2026-11-13T17:58:39.413Z"
+  ]
+}

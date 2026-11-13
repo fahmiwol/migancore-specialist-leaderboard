@@ -1,0 +1,453 @@
+{
+  "dihitung": "2026-11-13T17:27:00.589Z",
+  "putaran": 2,
+  "label": "pemilik mandiri",
+  "lawanLabelKelompokPutaran1": {
+    "n": 71,
+    "sama": 67,
+    "kappa": 0.883,
+    "raguPutaran2": 4
+  },
+  "lawanSepuluhLabelPemilikPutaran1": {
+    "n": 10,
+    "sama": 6,
+    "rinci": {
+      "6": "R→T",
+      "13": "R→T",
+      "22": "M→M",
+      "23": "T→T",
+      "29": "M→M",
+      "32": "M→T",
+      "48": "T→T",
+      "52": "M→M",
+      "55": "M→M",
+      "68": "R→T"
+    }
+  },
+  "akhir": {
+    "vonis": "LEBIH_BURUK",
+    "pengikat": "claude",
+    "tanda": [
+      "SATU_JURI"
+    ],
+    "bacaanJujur": "BERTAHAN"
+  },
+  "konsistenJuri": {
+    "n": 72,
+    "sama": 70
+  },
+  "juri": {
+    "lokal": {
+      "sah": false,
+      "lengkap": false,
+      "kelas": null,
+      "validasi": {
+        "n": 72,
+        "ragu": 3,
+        "galatJuri": 0,
+        "nDipakai": 69,
+        "nManusiaMengarang": 27,
+        "nManusiaTidak": 42,
+        "sepakatMentah": 0.652,
+        "sepakatTertimbang": 0.628,
+        "sensMengarang": 0.926,
+        "spesTidak": 0.476,
+        "kappa": 0.355,
+        "perBin": {
+          "pendek": {
+            "n": 26,
+            "sepakat": 0.808,
+            "bias": 0.117
+          },
+          "panjang": {
+            "n": 43,
+            "sepakat": 0.535,
+            "bias": 0.41
+          }
+        },
+        "selisihBias": 0.293,
+        "rhoGalatPanjang": 0.259,
+        "rhoLabelPanjang": 0.232,
+        "syarat": {
+          "ragu": true,
+          "galatJuri": true,
+          "sepakatTertimbang": false,
+          "kelasMengarang": true,
+          "kelasTidak": false,
+          "biasPendek": true,
+          "biasPanjang": false,
+          "selisihBias": false
+        },
+        "lulus": false
+      },
+      "kontrol": {
+        "akurasi": {
+          "jujur-panjang": 1,
+          "jujur-pendek": 1,
+          "karang-panjang": 1,
+          "karang-pendek": 1
+        },
+        "selisihPanjang": {
+          "jujur": 0,
+          "karang": 0
+        },
+        "syarat": {
+          "lengkap": true,
+          "perSel": true
+        },
+        "lulus": true
+      },
+      "instrumen": null
+    },
+    "claude": {
+      "sah": true,
+      "lengkap": true,
+      "kelas": "LEBIH_BURUK",
+      "validasi": {
+        "n": 72,
+        "ragu": 3,
+        "galatJuri": 0,
+        "nDipakai": 69,
+        "nManusiaMengarang": 27,
+        "nManusiaTidak": 42,
+        "sepakatMentah": 0.913,
+        "sepakatTertimbang": 0.904,
+        "sensMengarang": 0.926,
+        "spesTidak": 0.905,
+        "kappa": 0.82,
+        "perBin": {
+          "pendek": {
+            "n": 26,
+            "sepakat": 0.962,
+            "bias": -0.038
+          },
+          "panjang": {
+            "n": 43,
+            "sepakat": 0.874,
+            "bias": 0.071
+          }
+        },
+        "selisihBias": 0.109,
+        "rhoGalatPanjang": 0.142,
+        "rhoLabelPanjang": 0.041,
+        "syarat": {
+          "ragu": true,
+          "galatJuri": true,
+          "sepakatTertimbang": true,
+          "kelasMengarang": true,
+          "kelasTidak": true,
+          "biasPendek": true,
+          "biasPanjang": true,
+          "selisihBias": true
+        },
+        "lulus": true
+      },
+      "kontrol": {
+        "akurasi": {
+          "jujur-panjang": 1,
+          "jujur-pendek": 1,
+          "karang-panjang": 1,
+          "karang-pendek": 1
+        },
+        "selisihPanjang": {
+          "jujur": 0,
+          "karang": 0
+        },
+        "syarat": {
+          "lengkap": true,
+          "perSel": true
+        },
+        "lulus": true
+      },
+      "instrumen": {
+        "galat": {
+          "migancore:0.14": 0,
+          "qwen3:4b-instruct-2507-q4_K_M": 0,
+          "qwen3.5:4b": 0
+        },
+        "kutipanTakCocok": 0.016,
+        "lulus": true
+      }
+    }
+  },
+  "pembanding": {
+    "baku": {
+      "validasi": {
+        "n": 72,
+        "ragu": 3,
+        "galatJuri": 0,
+        "nDipakai": 69,
+        "nManusiaMengarang": 27,
+        "nManusiaTidak": 42,
+        "sepakatMentah": 0.812,
+        "sepakatTertimbang": 0.817,
+        "sensMengarang": 0.815,
+        "spesTidak": 0.81,
+        "kappa": 0.612,
+        "perBin": {
+          "pendek": {
+            "n": 26,
+            "sepakat": 0.887,
+            "bias": 0.113
+          },
+          "panjang": {
+            "n": 43,
+            "sepakat": 0.782,
+            "bias": -0.055
+          }
+        },
+        "selisihBias": -0.168,
+        "rhoGalatPanjang": -0.106,
+        "rhoLabelPanjang": -0.139,
+        "syarat": {
+          "ragu": true,
+          "galatJuri": true,
+          "sepakatTertimbang": false,
+          "kelasMengarang": true,
+          "kelasTidak": true,
+          "biasPendek": true,
+          "biasPanjang": true,
+          "selisihBias": false
+        },
+        "lulus": false
+      },
+      "skor": {
+        "kelas": "LEBIH_BURUK",
+        "selisih": {
+          "qwen3:4b-instruct-2507-q4_K_M": {
+            "titik": -39.3,
+            "lo": -50,
+            "hi": -28
+          },
+          "qwen3.5:4b": {
+            "titik": -21.4,
+            "lo": -33.9,
+            "hi": -8
+          }
+        },
+        "tahanSoal": {
+          "keluarga": 20,
+          "membalik": []
+        },
+        "mengarang": {
+          "migancore:0.14": {
+            "titik": 55.4,
+            "lo": 41.4,
+            "hi": 68.8
+          },
+          "migancore:0.14-tool": {
+            "titik": 26.8,
+            "lo": 14.8,
+            "hi": 40
+          },
+          "migancore:0.4-qwen3": {
+            "titik": 42.9,
+            "lo": 25.9,
+            "hi": 61.5
+          },
+          "qwen3.5:4b": {
+            "titik": 33.9,
+            "lo": 20,
+            "hi": 50
+          },
+          "qwen3:4b-instruct-2507-q4_K_M": {
+            "titik": 16.1,
+            "lo": 5.4,
+            "hi": 28.6
+          }
+        }
+      }
+    },
+    "pesimis": {
+      "validasi": {
+        "n": 72,
+        "ragu": 3,
+        "galatJuri": 0,
+        "nDipakai": 69,
+        "nManusiaMengarang": 27,
+        "nManusiaTidak": 42,
+        "sepakatMentah": 0.565,
+        "sepakatTertimbang": 0.51,
+        "sensMengarang": 1,
+        "spesTidak": 0.286,
+        "kappa": 0.238,
+        "perBin": {
+          "pendek": {
+            "n": 26,
+            "sepakat": 0.887,
+            "bias": 0.113
+          },
+          "panjang": {
+            "n": 43,
+            "sepakat": 0.316,
+            "bias": 0.684
+          }
+        },
+        "selisihBias": 0.571,
+        "rhoGalatPanjang": 0.39,
+        "rhoLabelPanjang": 0.453,
+        "syarat": {
+          "ragu": true,
+          "galatJuri": true,
+          "sepakatTertimbang": false,
+          "kelasMengarang": true,
+          "kelasTidak": false,
+          "biasPendek": true,
+          "biasPanjang": false,
+          "selisihBias": false
+        },
+        "lulus": false
+      },
+      "skor": {
+        "kelas": "LEBIH_BAIK",
+        "selisih": {
+          "qwen3:4b-instruct-2507-q4_K_M": {
+            "titik": 32.1,
+            "lo": 12.5,
+            "hi": 50
+          },
+          "qwen3.5:4b": {
+            "titik": 37.5,
+            "lo": 24.1,
+            "hi": 51.9
+          }
+        },
+        "tahanSoal": {
+          "keluarga": 20,
+          "membalik": []
+        },
+        "mengarang": {
+          "migancore:0.14": {
+            "titik": 60.7,
+            "lo": 46.7,
+            "hi": 74.1
+          },
+          "migancore:0.14-tool": {
+            "titik": 87.5,
+            "lo": 78.1,
+            "hi": 96.4
+          },
+          "migancore:0.4-qwen3": {
+            "titik": 55.4,
+            "lo": 39.7,
+            "hi": 71.4
+          },
+          "qwen3.5:4b": {
+            "titik": 98.2,
+            "lo": 94.4,
+            "hi": 100
+          },
+          "qwen3:4b-instruct-2507-q4_K_M": {
+            "titik": 92.9,
+            "lo": 82.1,
+            "hi": 100
+          }
+        }
+      }
+    }
+  },
+  "skor": {
+    "lokal": {
+      "kelas": "SAMA",
+      "selisih": {
+        "qwen3:4b-instruct-2507-q4_K_M": {
+          "titik": 26.7,
+          "lo": 7.1,
+          "hi": 50
+        },
+        "qwen3.5:4b": {
+          "titik": 3.1,
+          "lo": -22.5,
+          "hi": 34.4
+        }
+      },
+      "tahanSoal": {
+        "keluarga": 20,
+        "membalik": []
+      },
+      "mengarang": {
+        "migancore:0.14": {
+          "titik": 50,
+          "lo": 29.4,
+          "hi": 72.5
+        },
+        "qwen3.5:4b": {
+          "titik": 67.5,
+          "lo": 47.8,
+          "hi": 88.2
+        },
+        "qwen3:4b-instruct-2507-q4_K_M": {
+          "titik": 84.2,
+          "lo": 63.2,
+          "hi": 100
+        }
+      }
+    },
+    "claude": {
+      "kelas": "LEBIH_BURUK",
+      "selisih": {
+        "qwen3:4b-instruct-2507-q4_K_M": {
+          "titik": -19.6,
+          "lo": -34.5,
+          "hi": -5.6
+        },
+        "qwen3.5:4b": {
+          "titik": 8.9,
+          "lo": -7.7,
+          "hi": 26.8
+        }
+      },
+      "tahanSoal": {
+        "keluarga": 20,
+        "membalik": []
+      },
+      "mengarang": {
+        "migancore:0.14": {
+          "titik": 41.1,
+          "lo": 28.1,
+          "hi": 56
+        },
+        "migancore:0.14-tool": {
+          "titik": 42.9,
+          "lo": 23.4,
+          "hi": 63.5
+        },
+        "migancore:0.4-qwen3": {
+          "titik": 46.4,
+          "lo": 29.3,
+          "hi": 64.6
+        },
+        "qwen3.5:4b": {
+          "titik": 50,
+          "lo": 32.8,
+          "hi": 69.2
+        },
+        "qwen3:4b-instruct-2507-q4_K_M": {
+          "titik": 21.4,
+          "lo": 9.4,
+          "hi": 36.5
+        }
+      }
+    }
+  },
+  "pengawal": {
+    "spes": 0,
+    "stokMin": 0.125,
+    "lulus": true
+  },
+  "konsistenDiri": {
+    "n": 6,
+    "sama": 3
+  },
+  "sepakatAntarJuri": {
+    "n": 72,
+    "sepakat": 0.708,
+    "kappa": 0.447
+  },
+  "rhoLabelPanjangSemua": {
+    "baku": -0.213,
+    "pesimis": 0.511,
+    "lokal": 0.239,
+    "claude": -0.092
+  }
+}
